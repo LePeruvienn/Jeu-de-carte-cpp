@@ -1,0 +1,8 @@
+README
+
+Voici notre jeu de carte. Pour y jouer, il faut tout simplement le lance, puis, sélectionner votre type de partie avec deux choix différence. Sois joueur contre IA, sois joueur contre joueur. SI le 1er choix est choisi, tous les choix possibles son choisie aléatoirement pour l’IA et libre de choisir le chois que l’on veut pour le joueur. Après avoir choisie le type de partie, on demande au joueur son nom et montre qui il va affronter. Par la suite, les règle du jeu son expliquer, la réserve de carte et montré et laisse-le chois au joueur de sélectionner les cartes aléatoirement ou en les sélectionnant 1 par 1. On montre ensuite la pille de chaque joueur et on demande au joueur sa chois de stratégie. 5 choix possible, sois de mélanger la pile de façon aléatoire, sois croissant par rapport a l’attaque, sois par rapport a la défense, sois par rapport à la magie, ou sois ne rien faire. Après le chois voulu, on montre la pile triée de chaque joueur et le combat commence. Une boucle commence pour les combats et chacun de leur carte. La construction est la suivante, on montre les cartes piocher, puis, les attaque physique et magique son calculer et appliquer pour chaque joueur tout en montrant leur prestige juste après et le remontre à la fin, et la boucle recommence jusqu’à qu’un des 2 joueur ont un prestige nul ou négatif, ou sois, ils n’ont plus de carte. Le gagnant et celui qui a le plus de prestige que l’autre joueur.
+
+INFORMATION
+
+Il n’y a pas de vérification quand vous sélectionner vos cartes dans la réserve, donc vous pouvez crée les cartes que vous voulez et le mettre dans votre pile.
+Les noms des IA sont pris aléatoirement et on été séléctionner par nous.
